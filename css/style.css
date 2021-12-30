@@ -10,7 +10,7 @@ h1 {
 }
 
 p {
-  border: 15px solid black;
+  border: 15px;
   background-color: #808080;
   width: 90%;
   height: 150px;
