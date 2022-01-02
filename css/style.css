@@ -19,9 +19,60 @@ p {
   font-family: Helvetica;
   color: white;
   text-align: center;
-  background-image: url(https://github.com/Kartheek-Bhavineni/module2-assignments.git/green.png);
-}
+  background-image: url(red.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 100px;
 
+}
+/*.b1{
+  border: 1px solid black;
+  background-color: #808080;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  background-image: url(red.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 100px;
+
+}
+.b2{
+  border: 1px solid black;
+  background-color: #808080;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  background-image: url(green.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 100px;
+
+}
+.b3{
+  border: 1px solid black;
+  background-color: #808080;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  background-image: url(blue.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 100px;
+
+}*/
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
